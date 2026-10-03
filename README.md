@@ -1,0 +1,2 @@
+# premium-drum-sander-001-drum-sander-building-wide-be
+Tired of scrolling through endless forum threads and YouTube comments to piece together your drum sander build? Your project deserves a single source of truth — this Notion template organizes every dimension, part list, and tuning step so you build once and build right.  This Notion template transforms the chaos of building a drum sander into a str
